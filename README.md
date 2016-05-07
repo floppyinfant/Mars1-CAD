@@ -1,4 +1,4 @@
-# Hardware
+# Wiring
 ## Fritzing
 * http://fritzing.org/
 
