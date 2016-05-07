@@ -1,4 +1,46 @@
-# CAD
+# Hardware
+## Fritzing
+* http://fritzing.org/
+
+
+# Datasheets
+Pushbuttons - Illuminated, Momentary (7 * blue, 5 * yellow, 2 * red)
+* http://www.exp-tech.de/16mm-illuminated-pushbutton-blue-momentary
+
+Potis
+* http://www.exp-tech.de/panel-mount-100k-potentiometer-breadboard-friendly-100kb
+* http://www.exp-tech.de/panel-mount-10k-potentiometer-breadboard-friendly-10k-linear
+
+Knobs
+* http://www.exp-tech.de/slim-metal-potentiometer-knob-10mm-diameter-x-10mm-t18
+* http://www.exp-tech.de/slim-metal-potentiometer-knob-10mm-diameter-x-15mm-t18
+* http://www.exp-tech.de/solid-machined-metal-knob-1-diameter
+
+Rotary Encoder, illuminated
+* http://www.exp-tech.de/rotary-encoder-illuminated-rgb
+* http://www.exp-tech.de/clear-plastic-knob
+
+Ribbon Sensor, circular
+* http://www.exp-tech.de/circular-soft-potentiometer-ribbon-sensor
+
+Joystick
+* http://www.exp-tech.de/analog-2-axis-thumb-joystick-with-select-button-breakout-board
+
+Adafruit Quad alphanumeric Display
+* http://www.exp-tech.de/adafruit-quad-alphanumeric-display-white-0-54-digits-w-i2c-backpack
+
+Adafruit Trellis
+* http://www.exp-tech.de/adafruit-trellis-monochrome-driver-pcb-for-4x4-keypad-3mm-leds
+* http://www.exp-tech.de/silicone-elastomer-4x4-button-keypad-for-3mm-leds
+* http://www.exp-tech.de/diffused-white-3mm-led-25-pack
+
+Raspberry Pi Model B
+Adafruit PiTFT Monitor
+* http://www.exp-tech.de/adafruit-pitft-assembled-320x240-2-8-tft-touchscreen-for-raspberry-pi
+
+
+
+# CAD (Frontpanel Design)
 
 ## Siemens Solid Edge 2D Drafting
 * http://www.plm.automation.siemens.com/en_us/products/solid-edge/free2d/index.shtml
@@ -6,6 +48,9 @@
 
 ## Inkscape
 * https://inkscape.org/de/
+
+## Schaffer Frontplatten Designer
+* https://www.schaeffer-ag.de/frontplatten_designer/die_idee/
 
 
 # Alternative Software
@@ -32,6 +77,12 @@ DraftSight Fundamentals (Documentation)
 ### FreeCAD
 * https://github.com/FreeCAD/FreeCAD
 
+### BlenderCAD
+* http://sourceforge.net/projects/blendercad/
+
+### Blender
+* https://www.blender.org/
+
 ### MEDUSA4Personal
 * http://www.cad-schroer.de/produkte/medusa4-personal.html
 * http://www.cad-schroer.de/produkte/medusa4-personal/video-tutorials.html
@@ -42,22 +93,21 @@ DraftSight Fundamentals (Documentation)
 * http://www.youtube.com/user/123d
 
 
-## state of the art software
+## Proprietary Software
 ### AutoCAD from Autodesk
 * http://www.autodesk.de/products/autocad/overview
 
 ### Solid Works
 * http://www.solidworks.de/
 
-## others
-### Blender + BlenderCAD
-* https://www.blender.org/
-* http://sourceforge.net/projects/blendercad/
+
 ### 3DS-MAX from Autodesk
 * http://www.autodesk.de/products/3ds-max/overview
 * http://www.autodesk.com/education/free-software/featured
+
 ### Cinema4D from MAXON
 * http://www.maxon.net/de/products/cinema-4d-studio.html
+
 ### SketchUp
 * http://www.sketchup.com/de
 
